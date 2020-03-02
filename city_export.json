@@ -3,1441 +3,4601 @@
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0018337794518588277,
-   "source": 11,
+   "sim": 0.7920797748461392,
+   "source": 25,
    "target": 0,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.002109859857081273,
-   "source": 12,
+   "sim": 0.8519139912035412,
+   "source": 26,
    "target": 0,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0015680074219006817,
-   "source": 13,
+   "sim": 0.8339955088150053,
+   "source": 27,
    "target": 0,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0016727398523477322,
-   "source": 14,
+   "sim": 0.8594621204551383,
+   "source": 28,
    "target": 0,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0010800777717601935,
-   "source": 15,
+   "sim": 0.7549288676479023,
+   "source": 29,
    "target": 0,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0018127492174642276,
-   "source": 16,
+   "sim": 0.8297175689917752,
+   "source": 30,
    "target": 0,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0018949275128663115,
-   "source": 17,
+   "sim": 0.8263096222472213,
+   "source": 31,
    "target": 0,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.001514806310511036,
-   "source": 18,
+   "sim": 0.6751537851097266,
+   "source": 32,
    "target": 0,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0025046176841555198,
-   "source": 19,
+   "sim": 0.8783219633806127,
+   "source": 33,
    "target": 0,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0013001625951399684,
-   "source": 11,
+   "sim": 0.8236996261522963,
+   "source": 34,
+   "target": 0,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.717579947921587,
+   "source": 35,
+   "target": 0,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7855283102957142,
+   "source": 36,
+   "target": 0,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.775775512863021,
+   "source": 37,
+   "target": 0,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7581851317093732,
+   "source": 39,
+   "target": 0,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.727132706206665,
+   "source": 25,
    "target": 1,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.002077086253767153,
-   "source": 12,
+   "sim": 0.8042612078166129,
+   "source": 26,
    "target": 1,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0017076378148332657,
-   "source": 13,
+   "sim": 0.7923716904219715,
+   "source": 27,
    "target": 1,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0011199449199624878,
-   "source": 14,
+   "sim": 0.8667648683868091,
+   "source": 28,
    "target": 1,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.00037538341348468217,
-   "source": 15,
+   "sim": 0.6997369785032521,
+   "source": 29,
    "target": 1,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0012329702359467043,
-   "source": 16,
+   "sim": 0.791516086684249,
+   "source": 30,
    "target": 1,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0025433366507701975,
-   "source": 17,
+   "sim": 0.801837874859471,
+   "source": 31,
    "target": 1,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0008974845971130064,
-   "source": 18,
+   "sim": 0.6426780470217914,
+   "source": 32,
    "target": 1,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0014646675620727137,
-   "source": 19,
+   "sim": 0.841084378634848,
+   "source": 33,
    "target": 1,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0017144453246818849,
-   "source": 11,
+   "sim": 0.7896062668755256,
+   "source": 34,
+   "target": 1,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.652567058311387,
+   "source": 35,
+   "target": 1,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7415559580211429,
+   "source": 36,
+   "target": 1,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7075057417864192,
+   "source": 37,
+   "target": 1,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7215347425248696,
+   "source": 39,
+   "target": 1,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7700002143626619,
+   "source": 25,
    "target": 2,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.002119021298158557,
-   "source": 12,
+   "sim": 0.8146986755891662,
+   "source": 26,
    "target": 2,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0019483804241746808,
-   "source": 13,
+   "sim": 0.8082167114163896,
+   "source": 27,
    "target": 2,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0017241909371719343,
-   "source": 14,
+   "sim": 0.8489901708715322,
+   "source": 28,
    "target": 2,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0007259154128761194,
-   "source": 15,
+   "sim": 0.7149134306662569,
+   "source": 29,
    "target": 2,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0018037875732850879,
-   "source": 16,
+   "sim": 0.8083385588511982,
+   "source": 30,
    "target": 2,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0022929605914379855,
-   "source": 17,
+   "sim": 0.8145626303335861,
+   "source": 31,
    "target": 2,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.001344355278828695,
-   "source": 18,
+   "sim": 0.655696851399592,
+   "source": 32,
    "target": 2,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.002280690399717079,
-   "source": 19,
+   "sim": 0.874165280652959,
+   "source": 33,
    "target": 2,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0017697704105568742,
-   "source": 11,
+   "sim": 0.8314229879173481,
+   "source": 34,
+   "target": 2,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.6927595610037174,
+   "source": 35,
+   "target": 2,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.754236334819574,
+   "source": 36,
+   "target": 2,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7188541695132064,
+   "source": 37,
+   "target": 2,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7531637085573649,
+   "source": 39,
+   "target": 2,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7549773327296851,
+   "source": 25,
    "target": 3,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0005430641528323396,
-   "source": 12,
+   "sim": 0.8136621096723441,
+   "source": 26,
    "target": 3,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0012217432359083724,
-   "source": 13,
+   "sim": 0.7970456398298422,
+   "source": 27,
    "target": 3,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0007659831578425589,
-   "source": 14,
+   "sim": 0.8302977378217989,
+   "source": 28,
    "target": 3,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0005848291945799352,
-   "source": 15,
+   "sim": 0.7308640399988588,
+   "source": 29,
    "target": 3,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0010061083755464825,
-   "source": 16,
+   "sim": 0.7981020550057658,
+   "source": 30,
    "target": 3,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0011933414392474484,
-   "source": 17,
+   "sim": 0.783403580046357,
+   "source": 31,
    "target": 3,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0005069630321803225,
-   "source": 18,
+   "sim": 0.6696078201127017,
+   "source": 32,
    "target": 3,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0014999393229927155,
-   "source": 19,
+   "sim": 0.8522738622136463,
+   "source": 33,
    "target": 3,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0016875312296021053,
-   "source": 11,
+   "sim": 0.8196932195267879,
+   "source": 34,
+   "target": 3,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.6922847778759915,
+   "source": 35,
+   "target": 3,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7653055597135043,
+   "source": 36,
+   "target": 3,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7388586505772616,
+   "source": 37,
+   "target": 3,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7587199295645289,
+   "source": 39,
+   "target": 3,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7898966054942089,
+   "source": 25,
    "target": 4,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0009574866297906867,
-   "source": 12,
+   "sim": 0.8246982832236995,
+   "source": 26,
    "target": 4,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.001507505666004385,
-   "source": 13,
+   "sim": 0.8211672673859264,
+   "source": 27,
    "target": 4,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0008996783428635626,
-   "source": 14,
+   "sim": 0.8292847915956145,
+   "source": 28,
    "target": 4,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0007413416375509997,
-   "source": 15,
+   "sim": 0.7190989806925561,
+   "source": 29,
    "target": 4,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0006388192534399354,
-   "source": 16,
+   "sim": 0.8195399676127426,
+   "source": 30,
    "target": 4,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0009087994127951349,
-   "source": 17,
+   "sim": 0.8084739108105019,
+   "source": 31,
    "target": 4,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.003722767530945221,
-   "source": 18,
+   "sim": 0.6337113413175596,
+   "source": 32,
    "target": 4,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0019174755774548564,
-   "source": 19,
+   "sim": 0.8819353657557711,
+   "source": 33,
    "target": 4,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0008934686105684964,
-   "source": 11,
+   "sim": 0.8126622664787221,
+   "source": 34,
+   "target": 4,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7108359435003418,
+   "source": 35,
+   "target": 4,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7503954641229983,
+   "source": 36,
+   "target": 4,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7393018453543526,
+   "source": 37,
+   "target": 4,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7307550454411498,
+   "source": 39,
+   "target": 4,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7887169985640196,
+   "source": 25,
    "target": 5,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0010167489982048057,
-   "source": 12,
+   "sim": 0.8663429383190823,
+   "source": 26,
    "target": 5,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.000940784716910215,
-   "source": 13,
+   "sim": 0.835462840935188,
+   "source": 27,
    "target": 5,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0009737757325230367,
-   "source": 14,
+   "sim": 0.7976668192051075,
+   "source": 28,
    "target": 5,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.00038248221400364175,
-   "source": 15,
+   "sim": 0.763261639369698,
+   "source": 29,
    "target": 5,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.001285736380812527,
-   "source": 16,
+   "sim": 0.8468630012401892,
+   "source": 30,
    "target": 5,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0015520791810661799,
-   "source": 17,
+   "sim": 0.8017612581516433,
+   "source": 31,
    "target": 5,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0005060593394897951,
-   "source": 18,
+   "sim": 0.6675353101385069,
+   "source": 32,
    "target": 5,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0006693059165122077,
-   "source": 19,
+   "sim": 0.8386665527193351,
+   "source": 33,
    "target": 5,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.00043350601769022906,
-   "source": 11,
+   "sim": 0.8157104378852295,
+   "source": 34,
+   "target": 5,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7249453578436376,
+   "source": 35,
+   "target": 5,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7806493222549044,
+   "source": 36,
+   "target": 5,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.8124998244271195,
+   "source": 37,
+   "target": 5,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7405232475394492,
+   "source": 39,
+   "target": 5,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7943931899779785,
+   "source": 25,
    "target": 6,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.002467154746918861,
-   "source": 12,
+   "sim": 0.7818818929948481,
+   "source": 26,
    "target": 6,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0012824755801873079,
-   "source": 13,
+   "sim": 0.8046750659363968,
+   "source": 27,
    "target": 6,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0007766213342297841,
-   "source": 14,
+   "sim": 0.8064410487895135,
+   "source": 28,
    "target": 6,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.000479836377684873,
-   "source": 15,
+   "sim": 0.721940551326385,
+   "source": 29,
    "target": 6,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0029510815434594453,
-   "source": 16,
+   "sim": 0.8139304361820994,
+   "source": 30,
    "target": 6,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.002590796536265433,
-   "source": 17,
+   "sim": 0.7828575037296879,
+   "source": 31,
    "target": 6,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.00019107505086717082,
-   "source": 18,
+   "sim": 0.6211756678178426,
+   "source": 32,
    "target": 6,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0014376353947035039,
-   "source": 19,
+   "sim": 0.8153486967496842,
+   "source": 33,
    "target": 6,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0007068603255651596,
-   "source": 11,
+   "sim": 0.7782746083706102,
+   "source": 34,
+   "target": 6,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7273703496196167,
+   "source": 35,
+   "target": 6,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.758180596459476,
+   "source": 36,
+   "target": 6,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7199400884661211,
+   "source": 37,
+   "target": 6,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7403094891972868,
+   "source": 39,
+   "target": 6,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.5773738991198732,
+   "source": 25,
    "target": 7,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.007210967173091762,
-   "source": 12,
+   "sim": 0.6551040403585778,
+   "source": 26,
    "target": 7,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.009572086369040155,
-   "source": 13,
+   "sim": 0.6409814403593211,
+   "source": 27,
    "target": 7,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0015774902961675269,
-   "source": 14,
+   "sim": 0.8082350460286051,
+   "source": 28,
    "target": 7,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0009502137720764284,
-   "source": 15,
+   "sim": 0.6068783480746056,
+   "source": 29,
    "target": 7,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0017723524780008544,
-   "source": 16,
+   "sim": 0.6553395143033942,
+   "source": 30,
    "target": 7,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0034916508029230794,
-   "source": 17,
+   "sim": 0.6590317740186449,
+   "source": 31,
    "target": 7,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.00036480572017425763,
-   "source": 18,
+   "sim": 0.5945655171577431,
+   "source": 32,
    "target": 7,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0006308274659242985,
-   "source": 19,
+   "sim": 0.6983378148425529,
+   "source": 33,
    "target": 7,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0016294027288897672,
-   "source": 11,
+   "sim": 0.7004487085294605,
+   "source": 34,
+   "target": 7,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.4969452955091646,
+   "source": 35,
+   "target": 7,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.6558347050667176,
+   "source": 36,
+   "target": 7,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.5555478347099524,
+   "source": 37,
+   "target": 7,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.6873791947291653,
+   "source": 39,
+   "target": 7,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7758910991343162,
+   "source": 25,
    "target": 8,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.002161040518630869,
-   "source": 12,
+   "sim": 0.8283648604562943,
+   "source": 26,
    "target": 8,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0013765520954768327,
-   "source": 13,
+   "sim": 0.8194943179307315,
+   "source": 27,
    "target": 8,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0011413109640810717,
-   "source": 14,
+   "sim": 0.8543998591635918,
+   "source": 28,
    "target": 8,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0011012703561790636,
-   "source": 15,
+   "sim": 0.7284294429584148,
+   "source": 29,
    "target": 8,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0013450725799590238,
-   "source": 16,
+   "sim": 0.8141719630693498,
+   "source": 30,
    "target": 8,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.002162189778338213,
-   "source": 17,
+   "sim": 0.8120126851826632,
+   "source": 31,
    "target": 8,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0008855824978568252,
-   "source": 18,
+   "sim": 0.6584042078043364,
+   "source": 32,
    "target": 8,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0013413748872712157,
-   "source": 19,
+   "sim": 0.88367898732835,
+   "source": 33,
    "target": 8,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0018118842701904303,
-   "source": 11,
+   "sim": 0.8214353572058419,
+   "source": 34,
+   "target": 8,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7028879592282913,
+   "source": 35,
+   "target": 8,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7624651928229575,
+   "source": 36,
+   "target": 8,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7358407656729555,
+   "source": 37,
+   "target": 8,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7497473661310844,
+   "source": 39,
+   "target": 8,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.6631375195553145,
+   "source": 25,
    "target": 9,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0004773822445813814,
-   "source": 12,
+   "sim": 0.7711864797444723,
+   "source": 26,
    "target": 9,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0016444724964992739,
-   "source": 13,
+   "sim": 0.7225434906642161,
+   "source": 27,
    "target": 9,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.000763441819743224,
-   "source": 14,
+   "sim": 0.8375522253666102,
+   "source": 28,
    "target": 9,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.00044580784087299677,
-   "source": 15,
+   "sim": 0.6929985186598683,
+   "source": 29,
    "target": 9,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.000546096668100446,
-   "source": 16,
+   "sim": 0.7105595177772247,
+   "source": 30,
    "target": 9,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.00025024035686610827,
-   "source": 17,
+   "sim": 0.7374432066154596,
+   "source": 31,
    "target": 9,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0006323719181343107,
-   "source": 18,
+   "sim": 0.7041932183989699,
+   "source": 32,
    "target": 9,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0023898802447014818,
-   "source": 19,
+   "sim": 0.825864335923896,
+   "source": 33,
    "target": 9,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0006289428055186703,
-   "source": 11,
+   "sim": 0.8155561648362013,
+   "source": 34,
+   "target": 9,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.6083784340138143,
+   "source": 35,
+   "target": 9,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7307410044274081,
+   "source": 36,
+   "target": 9,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.6605695304933048,
+   "source": 37,
+   "target": 9,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7610843158609047,
+   "source": 39,
+   "target": 9,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7782436397345343,
+   "source": 25,
    "target": 10,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0018430031239468053,
-   "source": 12,
+   "sim": 0.8441372954706767,
+   "source": 26,
    "target": 10,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0011699859062159815,
-   "source": 13,
+   "sim": 0.829653136619952,
+   "source": 27,
    "target": 10,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0006100599129180528,
-   "source": 14,
+   "sim": 0.8496193333374206,
+   "source": 28,
    "target": 10,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.00028786755711961647,
-   "source": 15,
+   "sim": 0.7250435480873325,
+   "source": 29,
    "target": 10,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0013563108472507844,
-   "source": 16,
+   "sim": 0.8340881019833394,
+   "source": 30,
    "target": 10,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.002103447622465086,
-   "source": 17,
+   "sim": 0.831779589415876,
+   "source": 31,
    "target": 10,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 6.673748156115611e-05,
-   "source": 18,
+   "sim": 0.6380971271867708,
+   "source": 32,
    "target": 10,
    "type": 1
   },
   {
    "dist": -1.0,
    "mobile": 0,
-   "sim": 0.0020039325306110615,
-   "source": 19,
+   "sim": 0.855302356785619,
+   "source": 33,
    "target": 10,
    "type": 1
   },
   {
-   "dist": 0.07652382542057248,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 11,
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.8075354568406796,
+   "source": 34,
+   "target": 10,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.704608031074648,
+   "source": 35,
+   "target": 10,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7610661298260406,
+   "source": 36,
+   "target": 10,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7581027691435309,
+   "source": 37,
+   "target": 10,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7244664291622385,
+   "source": 39,
+   "target": 10,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7106205865470284,
+   "source": 25,
    "target": 11,
-   "type": 0
+   "type": 1
   },
   {
-   "dist": 0.5966191698282457,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 11,
-   "target": 12,
-   "type": 0
-  },
-  {
-   "dist": 0.49022566019636366,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 11,
-   "target": 13,
-   "type": 0
-  },
-  {
-   "dist": 0.38007648096733676,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 11,
-   "target": 14,
-   "type": 0
-  },
-  {
-   "dist": 1.0469514952059134,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 11,
-   "target": 15,
-   "type": 0
-  },
-  {
-   "dist": 0.465466723789674,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 11,
-   "target": 16,
-   "type": 0
-  },
-  {
-   "dist": 0.19904882318127512,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 11,
-   "target": 17,
-   "type": 0
-  },
-  {
-   "dist": 0.9388966344806688,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 11,
-   "target": 18,
-   "type": 0
-  },
-  {
-   "dist": 0.9402391879833732,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 11,
-   "target": 19,
-   "type": 0
-  },
-  {
-   "dist": 0.5966191698282457,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 12,
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7870954326274084,
+   "source": 26,
    "target": 11,
-   "type": 0
+   "type": 1
   },
   {
-   "dist": 0.26119437319757965,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 12,
-   "target": 12,
-   "type": 0
-  },
-  {
-   "dist": 0.72510424697326,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 12,
-   "target": 13,
-   "type": 0
-  },
-  {
-   "dist": 0.9430160878843703,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 12,
-   "target": 14,
-   "type": 0
-  },
-  {
-   "dist": 1.5779342232318478,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 12,
-   "target": 15,
-   "type": 0
-  },
-  {
-   "dist": 0.9795084939286762,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 12,
-   "target": 16,
-   "type": 0
-  },
-  {
-   "dist": 0.6521649599015965,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 12,
-   "target": 17,
-   "type": 0
-  },
-  {
-   "dist": 0.4909437118533066,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 12,
-   "target": 18,
-   "type": 0
-  },
-  {
-   "dist": 0.423139616657388,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 12,
-   "target": 19,
-   "type": 0
-  },
-  {
-   "dist": 0.49022566019636366,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 13,
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7618476651151584,
+   "source": 27,
    "target": 11,
-   "type": 0
+   "type": 1
   },
   {
-   "dist": 0.72510424697326,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 13,
-   "target": 12,
-   "type": 0
-  },
-  {
-   "dist": 0.5381032441841027,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 13,
-   "target": 13,
-   "type": 0
-  },
-  {
-   "dist": 0.5681648713706879,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 13,
-   "target": 14,
-   "type": 0
-  },
-  {
-   "dist": 1.3627069908984366,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 13,
-   "target": 15,
-   "type": 0
-  },
-  {
-   "dist": 0.8194974533605968,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 13,
-   "target": 16,
-   "type": 0
-  },
-  {
-   "dist": 0.6316018281681052,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 13,
-   "target": 17,
-   "type": 0
-  },
-  {
-   "dist": 1.1033280462242698,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 13,
-   "target": 18,
-   "type": 0
-  },
-  {
-   "dist": 1.0090987229118826,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 13,
-   "target": 19,
-   "type": 0
-  },
-  {
-   "dist": 0.38007648096733676,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 14,
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.8293413552690919,
+   "source": 28,
    "target": 11,
-   "type": 0
+   "type": 1
   },
   {
-   "dist": 0.9430160878843703,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 14,
-   "target": 12,
-   "type": 0
-  },
-  {
-   "dist": 0.5681648713706878,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 14,
-   "target": 13,
-   "type": 0
-  },
-  {
-   "dist": 0.06153531780537549,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 14,
-   "target": 14,
-   "type": 0
-  },
-  {
-   "dist": 0.8547257293305855,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 14,
-   "target": 15,
-   "type": 0
-  },
-  {
-   "dist": 0.4343494916055272,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 14,
-   "target": 16,
-   "type": 0
-  },
-  {
-   "dist": 0.44667080788377017,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 14,
-   "target": 17,
-   "type": 0
-  },
-  {
-   "dist": 1.313824468684316,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 14,
-   "target": 18,
-   "type": 0
-  },
-  {
-   "dist": 1.3036872201374459,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 14,
-   "target": 19,
-   "type": 0
-  },
-  {
-   "dist": 1.0469514952059134,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 15,
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.6905891305959709,
+   "source": 29,
    "target": 11,
-   "type": 0
+   "type": 1
   },
   {
-   "dist": 1.5779342232318476,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 15,
-   "target": 12,
-   "type": 0
-  },
-  {
-   "dist": 1.3627069908984364,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 15,
-   "target": 13,
-   "type": 0
-  },
-  {
-   "dist": 0.8547257293305853,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 15,
-   "target": 14,
-   "type": 0
-  },
-  {
-   "dist": 0.14261300221555154,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 15,
-   "target": 15,
-   "type": 0
-  },
-  {
-   "dist": 0.673819467234408,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 15,
-   "target": 16,
-   "type": 0
-  },
-  {
-   "dist": 0.9523405785589847,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 15,
-   "target": 17,
-   "type": 0
-  },
-  {
-   "dist": 1.8048453132039872,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 15,
-   "target": 18,
-   "type": 0
-  },
-  {
-   "dist": 1.899583602332117,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 15,
-   "target": 19,
-   "type": 0
-  },
-  {
-   "dist": 0.4654667237896739,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 16,
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7550303695054149,
+   "source": 30,
    "target": 11,
-   "type": 0
+   "type": 1
   },
   {
-   "dist": 0.9795084939286762,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 16,
-   "target": 12,
-   "type": 0
-  },
-  {
-   "dist": 0.8194974533605964,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 16,
-   "target": 13,
-   "type": 0
-  },
-  {
-   "dist": 0.4343494916055273,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 16,
-   "target": 14,
-   "type": 0
-  },
-  {
-   "dist": 0.6738194672344082,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 16,
-   "target": 15,
-   "type": 0
-  },
-  {
-   "dist": 0.28763299423808214,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 16,
-   "target": 16,
-   "type": 0
-  },
-  {
-   "dist": 0.3767363270518571,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 16,
-   "target": 17,
-   "type": 0
-  },
-  {
-   "dist": 1.246864349701268,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 16,
-   "target": 18,
-   "type": 0
-  },
-  {
-   "dist": 1.3075647258882097,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 16,
-   "target": 19,
-   "type": 0
-  },
-  {
-   "dist": 0.1990488231812751,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 17,
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7651786082509746,
+   "source": 31,
    "target": 11,
-   "type": 0
+   "type": 1
   },
   {
-   "dist": 0.6521649599015965,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 17,
-   "target": 12,
-   "type": 0
-  },
-  {
-   "dist": 0.6316018281681052,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 17,
-   "target": 13,
-   "type": 0
-  },
-  {
-   "dist": 0.44667080788377006,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 17,
-   "target": 14,
-   "type": 0
-  },
-  {
-   "dist": 0.9523405785589847,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 17,
-   "target": 15,
-   "type": 0
-  },
-  {
-   "dist": 0.3767363270518571,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 17,
-   "target": 16,
-   "type": 0
-  },
-  {
-   "dist": 0.1287137690895232,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 17,
-   "target": 17,
-   "type": 0
-  },
-  {
-   "dist": 0.9259040021933461,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 17,
-   "target": 18,
-   "type": 0
-  },
-  {
-   "dist": 0.9740596340166059,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 17,
-   "target": 19,
-   "type": 0
-  },
-  {
-   "dist": 0.9388966344806688,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 18,
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.6546434135745399,
+   "source": 32,
    "target": 11,
-   "type": 0
+   "type": 1
   },
   {
-   "dist": 0.4909437118533066,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 18,
-   "target": 12,
-   "type": 0
-  },
-  {
-   "dist": 1.10332804622427,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 18,
-   "target": 13,
-   "type": 0
-  },
-  {
-   "dist": 1.313824468684316,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 18,
-   "target": 14,
-   "type": 0
-  },
-  {
-   "dist": 1.8048453132039872,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 18,
-   "target": 15,
-   "type": 0
-  },
-  {
-   "dist": 1.246864349701268,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 18,
-   "target": 16,
-   "type": 0
-  },
-  {
-   "dist": 0.9259040021933461,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 18,
-   "target": 17,
-   "type": 0
-  },
-  {
-   "dist": 0.028484877944271854,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 18,
-   "target": 18,
-   "type": 0
-  },
-  {
-   "dist": 0.2561082864649227,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 18,
-   "target": 19,
-   "type": 0
-  },
-  {
-   "dist": 0.9402391879833732,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 19,
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.8641138601878608,
+   "source": 33,
    "target": 11,
-   "type": 0
+   "type": 1
   },
   {
-   "dist": 0.423139616657388,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 19,
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.8056926633044019,
+   "source": 34,
+   "target": 11,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.6402300546379449,
+   "source": 35,
+   "target": 11,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7289083160621628,
+   "source": 36,
+   "target": 11,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.6907690197372786,
+   "source": 37,
+   "target": 11,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7310381233060159,
+   "source": 39,
+   "target": 11,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.5864153260150409,
+   "source": 25,
    "target": 12,
-   "type": 0
+   "type": 1
   },
   {
-   "dist": 1.0090987229118826,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 19,
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.6467482628952613,
+   "source": 26,
+   "target": 12,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.6291499956475252,
+   "source": 27,
+   "target": 12,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7202519913459072,
+   "source": 28,
+   "target": 12,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.5532863627047634,
+   "source": 29,
+   "target": 12,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.6181500496214116,
+   "source": 30,
+   "target": 12,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.6455088937744111,
+   "source": 31,
+   "target": 12,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.5348535577916879,
+   "source": 32,
+   "target": 12,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7688782660294732,
+   "source": 33,
+   "target": 12,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7086553123443508,
+   "source": 34,
+   "target": 12,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.5206265883689515,
+   "source": 35,
+   "target": 12,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.604520835121498,
+   "source": 36,
+   "target": 12,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.5359720162113344,
+   "source": 37,
+   "target": 12,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.6318137042059374,
+   "source": 39,
+   "target": 12,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.69068482744562,
+   "source": 25,
    "target": 13,
-   "type": 0
+   "type": 1
   },
   {
-   "dist": 1.3036872201374459,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 19,
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7644149496162647,
+   "source": 26,
+   "target": 13,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7449145970255604,
+   "source": 27,
+   "target": 13,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.8427472622533565,
+   "source": 28,
+   "target": 13,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.6796123039160926,
+   "source": 29,
+   "target": 13,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7412811954834729,
+   "source": 30,
+   "target": 13,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7518650353135783,
+   "source": 31,
+   "target": 13,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.6404577133556124,
+   "source": 32,
+   "target": 13,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.8444182109389191,
+   "source": 33,
+   "target": 13,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7871652935314322,
+   "source": 34,
+   "target": 13,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.6106896355243884,
+   "source": 35,
+   "target": 13,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7166249245310292,
+   "source": 36,
+   "target": 13,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.6604997037284417,
+   "source": 37,
+   "target": 13,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7297735937100602,
+   "source": 39,
+   "target": 13,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.5303619209758509,
+   "source": 25,
    "target": 14,
-   "type": 0
+   "type": 1
   },
   {
-   "dist": 1.899583602332117,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 19,
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.5803336891773462,
+   "source": 26,
+   "target": 14,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.5647972981138256,
+   "source": 27,
+   "target": 14,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.6568964944767599,
+   "source": 28,
+   "target": 14,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.4806579928553977,
+   "source": 29,
+   "target": 14,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.5556973774026928,
+   "source": 30,
+   "target": 14,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.5911104061563902,
+   "source": 31,
+   "target": 14,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.4671727375145319,
+   "source": 32,
+   "target": 14,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7159656064288407,
+   "source": 33,
+   "target": 14,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.6491511030319981,
+   "source": 34,
+   "target": 14,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.4671902297770559,
+   "source": 35,
+   "target": 14,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.5341639429581061,
+   "source": 36,
+   "target": 14,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.4642147190909019,
+   "source": 37,
+   "target": 14,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.5618193154032812,
+   "source": 39,
+   "target": 14,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.6330526466105993,
+   "source": 25,
    "target": 15,
-   "type": 0
+   "type": 1
   },
   {
-   "dist": 1.3075647258882097,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 19,
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.6922727482919944,
+   "source": 26,
+   "target": 15,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.68265783941984,
+   "source": 27,
+   "target": 15,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7761374937625143,
+   "source": 28,
+   "target": 15,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.5948448803653934,
+   "source": 29,
+   "target": 15,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.6762912607368973,
+   "source": 30,
+   "target": 15,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.6931904074576675,
+   "source": 31,
+   "target": 15,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.5723298979286888,
+   "source": 32,
+   "target": 15,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.8076767606811199,
+   "source": 33,
+   "target": 15,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7373722285723192,
+   "source": 34,
+   "target": 15,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.5580402352148726,
+   "source": 35,
+   "target": 15,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.6432709046384935,
+   "source": 36,
+   "target": 15,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.5830073085675664,
+   "source": 37,
+   "target": 15,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.6611342310040821,
+   "source": 39,
+   "target": 15,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.630900860905413,
+   "source": 25,
    "target": 16,
-   "type": 0
+   "type": 1
   },
   {
-   "dist": 0.974059634016606,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 19,
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.6876973058277549,
+   "source": 26,
+   "target": 16,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.6794323308339185,
+   "source": 27,
+   "target": 16,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7864472320265551,
+   "source": 28,
+   "target": 16,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.5905585685661731,
+   "source": 29,
+   "target": 16,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.6699263249550376,
+   "source": 30,
+   "target": 16,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.6943221896110445,
+   "source": 31,
+   "target": 16,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.565387694548028,
+   "source": 32,
+   "target": 16,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.8197743146361891,
+   "source": 33,
+   "target": 16,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7291590230779188,
+   "source": 34,
+   "target": 16,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.5538721223394176,
+   "source": 35,
+   "target": 16,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.6375157816975954,
+   "source": 36,
+   "target": 16,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.5691783228749663,
+   "source": 37,
+   "target": 16,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.6560100428710668,
+   "source": 39,
+   "target": 16,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7577067277543095,
+   "source": 25,
    "target": 17,
-   "type": 0
+   "type": 1
   },
   {
-   "dist": 0.2561082864649227,
-   "mobile": 1,
-   "sim": -1.0,
-   "source": 19,
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.8188920432470964,
+   "source": 26,
+   "target": 17,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.8196418585390852,
+   "source": 27,
+   "target": 17,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.8773874413374704,
+   "source": 28,
+   "target": 17,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.708670994636488,
+   "source": 29,
+   "target": 17,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.8334370537230708,
+   "source": 30,
+   "target": 17,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.825420068740633,
+   "source": 31,
+   "target": 17,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.6283611425475484,
+   "source": 32,
+   "target": 17,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.8460587603607088,
+   "source": 33,
+   "target": 17,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7975970976494209,
+   "source": 34,
+   "target": 17,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.6768694628846833,
+   "source": 35,
+   "target": 17,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7507926115432129,
+   "source": 36,
+   "target": 17,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7256291155251883,
+   "source": 37,
+   "target": 17,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7231560572973448,
+   "source": 39,
+   "target": 17,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7671975352143396,
+   "source": 25,
    "target": 18,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.8285665565193976,
+   "source": 26,
+   "target": 18,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.821942388532422,
+   "source": 27,
+   "target": 18,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.8672047594102095,
+   "source": 28,
+   "target": 18,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.714234903435891,
+   "source": 29,
+   "target": 18,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.8300623546291892,
+   "source": 30,
+   "target": 18,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.829663379492027,
+   "source": 31,
+   "target": 18,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.6397077457330868,
+   "source": 32,
+   "target": 18,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.871015932386875,
+   "source": 33,
+   "target": 18,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.816116662599197,
+   "source": 34,
+   "target": 18,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.690787497841357,
+   "source": 35,
+   "target": 18,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.756316974535362,
+   "source": 36,
+   "target": 18,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7311198080191552,
+   "source": 37,
+   "target": 18,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7353542617711264,
+   "source": 39,
+   "target": 18,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7484238754515034,
+   "source": 25,
+   "target": 19,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.8154877480224845,
+   "source": 26,
+   "target": 19,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.8044134424888714,
+   "source": 27,
+   "target": 19,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.8571824943264729,
+   "source": 28,
+   "target": 19,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7077711973410171,
+   "source": 29,
+   "target": 19,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.8062783140108738,
+   "source": 30,
+   "target": 19,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.8084579918988879,
+   "source": 31,
+   "target": 19,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.6379033460532888,
+   "source": 32,
+   "target": 19,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.8600228351141259,
+   "source": 33,
+   "target": 19,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.8000867654248416,
+   "source": 34,
+   "target": 19,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.666176806293652,
+   "source": 35,
+   "target": 19,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7450752236430054,
+   "source": 36,
+   "target": 19,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7223741326395636,
+   "source": 37,
+   "target": 19,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7248432266268053,
+   "source": 39,
+   "target": 19,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.8396159935347152,
+   "source": 25,
+   "target": 20,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.8610247440476955,
+   "source": 26,
+   "target": 20,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.8660881382931269,
+   "source": 27,
+   "target": 20,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.845276295689892,
+   "source": 28,
+   "target": 20,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7488817374297745,
+   "source": 29,
+   "target": 20,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.8654347544288808,
+   "source": 30,
+   "target": 20,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.858335190030136,
+   "source": 31,
+   "target": 20,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.6487743623868981,
+   "source": 32,
+   "target": 20,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.8819746788341878,
+   "source": 33,
+   "target": 20,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.8386694428794426,
+   "source": 34,
+   "target": 20,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7609176973754206,
+   "source": 35,
+   "target": 20,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7833854674819168,
+   "source": 36,
+   "target": 20,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7828924384555344,
+   "source": 37,
+   "target": 20,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7497144279392793,
+   "source": 39,
+   "target": 20,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7603931191395871,
+   "source": 25,
+   "target": 21,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.8212964005622806,
+   "source": 26,
+   "target": 21,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.813616418440203,
+   "source": 27,
+   "target": 21,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.8494966395665473,
+   "source": 28,
+   "target": 21,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.6953856658088644,
+   "source": 29,
+   "target": 21,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.821666954682327,
+   "source": 30,
+   "target": 21,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.8215099325571829,
+   "source": 31,
+   "target": 21,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.6196373776313543,
+   "source": 32,
+   "target": 21,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.859701955138664,
+   "source": 33,
+   "target": 21,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.8047224624574939,
+   "source": 34,
+   "target": 21,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.6825523766754344,
+   "source": 35,
+   "target": 21,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7404305958483773,
+   "source": 36,
+   "target": 21,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.722811892723399,
+   "source": 37,
+   "target": 21,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7134684877098493,
+   "source": 39,
+   "target": 21,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.6800745238080563,
+   "source": 25,
+   "target": 22,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7128056431436091,
+   "source": 26,
+   "target": 22,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7131343577982969,
+   "source": 27,
+   "target": 22,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7675500700818723,
+   "source": 28,
+   "target": 22,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.5922479904990783,
+   "source": 29,
+   "target": 22,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7180495178141866,
+   "source": 30,
+   "target": 22,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7286840416570844,
+   "source": 31,
+   "target": 22,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.5408013320424881,
+   "source": 32,
+   "target": 22,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.809847727289481,
+   "source": 33,
+   "target": 22,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7386766028864395,
+   "source": 34,
+   "target": 22,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.6055200308344317,
+   "source": 35,
+   "target": 22,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.6428357788543725,
+   "source": 36,
+   "target": 22,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.5970459980668437,
+   "source": 37,
+   "target": 22,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.6419601565351016,
+   "source": 39,
+   "target": 22,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7924083399349939,
+   "source": 25,
+   "target": 23,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.8573479402058546,
+   "source": 26,
+   "target": 23,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.8379296633929486,
+   "source": 27,
+   "target": 23,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.8907796207079623,
+   "source": 28,
+   "target": 23,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.8006483582982608,
+   "source": 29,
+   "target": 23,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.8224588041110944,
+   "source": 30,
+   "target": 23,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.824847657079187,
+   "source": 31,
+   "target": 23,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7666338468954017,
+   "source": 32,
+   "target": 23,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.8758357009068034,
+   "source": 33,
+   "target": 23,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.8763893219435358,
+   "source": 34,
+   "target": 23,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7239962618244162,
+   "source": 35,
+   "target": 23,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.8283773624827544,
+   "source": 36,
+   "target": 23,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7810566448474995,
+   "source": 37,
+   "target": 23,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.8397659316379302,
+   "source": 39,
+   "target": 23,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.740662649865986,
+   "source": 25,
+   "target": 24,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.837308118155395,
+   "source": 26,
+   "target": 24,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7927004729338718,
+   "source": 27,
+   "target": 24,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.8738943042106794,
+   "source": 28,
+   "target": 24,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7718964160158996,
+   "source": 29,
+   "target": 24,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7725506491677219,
+   "source": 30,
+   "target": 24,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7898102860304237,
+   "source": 31,
+   "target": 24,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7555556453171117,
+   "source": 32,
+   "target": 24,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.883531296437949,
+   "source": 33,
+   "target": 24,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.8515399675438797,
+   "source": 34,
+   "target": 24,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.6821494944018229,
+   "source": 35,
+   "target": 24,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7974925479359272,
+   "source": 36,
+   "target": 24,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.7507532059976216,
+   "source": 37,
+   "target": 24,
+   "type": 1
+  },
+  {
+   "dist": -1.0,
+   "mobile": 0,
+   "sim": 0.812966344098002,
+   "source": 39,
+   "target": 24,
+   "type": 1
+  },
+  {
+   "dist": 0.0,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 25,
+   "target": 25,
    "type": 0
   },
   {
-   "dist": 0.04005011655964194,
+   "dist": 0.2994526243689594,
    "mobile": 1,
    "sim": -1.0,
-   "source": 19,
-   "target": 19,
+   "source": 25,
+   "target": 26,
+   "type": 0
+  },
+  {
+   "dist": 0.26573747630357475,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 25,
+   "target": 27,
+   "type": 0
+  },
+  {
+   "dist": 0.16847379998835,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 25,
+   "target": 28,
+   "type": 0
+  },
+  {
+   "dist": 0.5487265677053323,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 25,
+   "target": 29,
+   "type": 0
+  },
+  {
+   "dist": 0.5945579646638014,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 25,
+   "target": 30,
+   "type": 0
+  },
+  {
+   "dist": 0.24421952424639978,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 25,
+   "target": 31,
+   "type": 0
+  },
+  {
+   "dist": 0.28120718789886096,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 25,
+   "target": 32,
+   "type": 0
+  },
+  {
+   "dist": 0.191990860045384,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 25,
+   "target": 33,
+   "type": 0
+  },
+  {
+   "dist": 0.348532051743611,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 25,
+   "target": 34,
+   "type": 0
+  },
+  {
+   "dist": 0.7067193093525092,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 25,
+   "target": 35,
+   "type": 0
+  },
+  {
+   "dist": 0.41519947283361286,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 25,
+   "target": 36,
+   "type": 0
+  },
+  {
+   "dist": 0.44737879516477513,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 25,
+   "target": 37,
+   "type": 0
+  },
+  {
+   "dist": 0.8546892183292119,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 25,
+   "target": 38,
+   "type": 0
+  },
+  {
+   "dist": 0.06893966247034561,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 25,
+   "target": 39,
+   "type": 0
+  },
+  {
+   "dist": 0.2994526243689594,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 26,
+   "target": 25,
+   "type": 0
+  },
+  {
+   "dist": 0.0,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 26,
+   "target": 26,
+   "type": 0
+  },
+  {
+   "dist": 0.1606073565735632,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 26,
+   "target": 27,
+   "type": 0
+  },
+  {
+   "dist": 0.14732009446348468,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 26,
+   "target": 28,
+   "type": 0
+  },
+  {
+   "dist": 0.2589115384896342,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 26,
+   "target": 29,
+   "type": 0
+  },
+  {
+   "dist": 0.35716587580056414,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 26,
+   "target": 30,
+   "type": 0
+  },
+  {
+   "dist": 0.06368101012959748,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 26,
+   "target": 31,
+   "type": 0
+  },
+  {
+   "dist": 0.18395283685799013,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 26,
+   "target": 32,
+   "type": 0
+  },
+  {
+   "dist": 0.24666688255273655,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 26,
+   "target": 33,
+   "type": 0
+  },
+  {
+   "dist": 0.14249287790505005,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 26,
+   "target": 34,
+   "type": 0
+  },
+  {
+   "dist": 0.41197161925599207,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 26,
+   "target": 35,
+   "type": 0
+  },
+  {
+   "dist": 0.12270122968738252,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 26,
+   "target": 36,
+   "type": 0
+  },
+  {
+   "dist": 0.2442357750381281,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 26,
+   "target": 37,
+   "type": 0
+  },
+  {
+   "dist": 0.5581140395630224,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 26,
+   "target": 38,
+   "type": 0
+  },
+  {
+   "dist": 0.23224264599921493,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 26,
+   "target": 39,
+   "type": 0
+  },
+  {
+   "dist": 0.26573747630357475,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 27,
+   "target": 25,
+   "type": 0
+  },
+  {
+   "dist": 0.1606073565735632,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 27,
+   "target": 26,
+   "type": 0
+  },
+  {
+   "dist": 0.0,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 27,
+   "target": 27,
+   "type": 0
+  },
+  {
+   "dist": 0.1119499295236083,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 27,
+   "target": 28,
+   "type": 0
+  },
+  {
+   "dist": 0.3195630190480231,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 27,
+   "target": 29,
+   "type": 0
+  },
+  {
+   "dist": 0.33045639281561023,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 27,
+   "target": 30,
+   "type": 0
+  },
+  {
+   "dist": 0.11492052717413245,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 27,
+   "target": 31,
+   "type": 0
+  },
+  {
+   "dist": 0.31040890067896126,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 27,
+   "target": 32,
+   "type": 0
+  },
+  {
+   "dist": 0.32092609556699897,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 27,
+   "target": 33,
+   "type": 0
+  },
+  {
+   "dist": 0.2984894871187527,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 27,
+   "target": 34,
+   "type": 0
+  },
+  {
+   "dist": 0.47802611946970336,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 27,
+   "target": 35,
+   "type": 0
+  },
+  {
+   "dist": 0.21016350871506045,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 27,
+   "target": 36,
+   "type": 0
+  },
+  {
+   "dist": 0.181874441431517,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 27,
+   "target": 37,
+   "type": 0
+  },
+  {
+   "dist": 0.6265104421223354,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 27,
+   "target": 38,
+   "type": 0
+  },
+  {
+   "dist": 0.2028983400799436,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 27,
+   "target": 39,
+   "type": 0
+  },
+  {
+   "dist": 0.16847379998835,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 28,
+   "target": 25,
+   "type": 0
+  },
+  {
+   "dist": 0.14732009446348468,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 28,
+   "target": 26,
+   "type": 0
+  },
+  {
+   "dist": 0.1119499295236083,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 28,
+   "target": 27,
+   "type": 0
+  },
+  {
+   "dist": 0.0,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 28,
+   "target": 28,
+   "type": 0
+  },
+  {
+   "dist": 0.3822525574448531,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 28,
+   "target": 29,
+   "type": 0
+  },
+  {
+   "dist": 0.4298690705886264,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 28,
+   "target": 30,
+   "type": 0
+  },
+  {
+   "dist": 0.08442824676142915,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 28,
+   "target": 31,
+   "type": 0
+  },
+  {
+   "dist": 0.22763207641068836,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 28,
+   "target": 32,
+   "type": 0
+  },
+  {
+   "dist": 0.2138083396911415,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 28,
+   "target": 33,
+   "type": 0
+  },
+  {
+   "dist": 0.24789185821640422,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 28,
+   "target": 34,
+   "type": 0
+  },
+  {
+   "dist": 0.5412894045702287,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 28,
+   "target": 35,
+   "type": 0
+  },
+  {
+   "dist": 0.2515594027192461,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 28,
+   "target": 36,
+   "type": 0
+  },
+  {
+   "dist": 0.28629963210869597,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 28,
+   "target": 37,
+   "type": 0
+  },
+  {
+   "dist": 0.6899592472886783,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 28,
+   "target": 38,
+   "type": 0
+  },
+  {
+   "dist": 0.10016448057751275,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 28,
+   "target": 39,
+   "type": 0
+  },
+  {
+   "dist": 0.5487265677053323,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 29,
+   "target": 25,
+   "type": 0
+  },
+  {
+   "dist": 0.2589115384896342,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 29,
+   "target": 26,
+   "type": 0
+  },
+  {
+   "dist": 0.3195630190480231,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 29,
+   "target": 27,
+   "type": 0
+  },
+  {
+   "dist": 0.3822525574448531,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 29,
+   "target": 28,
+   "type": 0
+  },
+  {
+   "dist": 0.0,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 29,
+   "target": 29,
+   "type": 0
+  },
+  {
+   "dist": 0.18145392341110675,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 29,
+   "target": 30,
+   "type": 0
+  },
+  {
+   "dist": 0.3051861048066388,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 29,
+   "target": 31,
+   "type": 0
+  },
+  {
+   "dist": 0.4103924172117732,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 29,
+   "target": 32,
+   "type": 0
+  },
+  {
+   "dist": 0.4991307811715438,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 29,
+   "target": 33,
+   "type": 0
+  },
+  {
+   "dist": 0.32362588601290804,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 29,
+   "target": 34,
+   "type": 0
+  },
+  {
+   "dist": 0.15973652020595108,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 29,
+   "target": 35,
+   "type": 0
+  },
+  {
+   "dist": 0.13629943673166417,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 29,
+   "target": 36,
+   "type": 0
+  },
+  {
+   "dist": 0.20624269357413114,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 29,
+   "target": 37,
+   "type": 0
+  },
+  {
+   "dist": 0.3087932075703917,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 29,
+   "target": 38,
+   "type": 0
+  },
+  {
+   "dist": 0.4798103095389081,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 29,
+   "target": 39,
+   "type": 0
+  },
+  {
+   "dist": 0.5945579646638014,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 30,
+   "target": 25,
+   "type": 0
+  },
+  {
+   "dist": 0.35716587580056414,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 30,
+   "target": 26,
+   "type": 0
+  },
+  {
+   "dist": 0.33045639281561023,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 30,
+   "target": 27,
+   "type": 0
+  },
+  {
+   "dist": 0.4298690705886264,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 30,
+   "target": 28,
+   "type": 0
+  },
+  {
+   "dist": 0.18145392341110675,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 30,
+   "target": 29,
+   "type": 0
+  },
+  {
+   "dist": 0.0,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 30,
+   "target": 30,
+   "type": 0
+  },
+  {
+   "dist": 0.3765426472475185,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 30,
+   "target": 31,
+   "type": 0
+  },
+  {
+   "dist": 0.5365214997557489,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 30,
+   "target": 32,
+   "type": 0
+  },
+  {
+   "dist": 0.6012777694515667,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 30,
+   "target": 33,
+   "type": 0
+  },
+  {
+   "dist": 0.46570806669286235,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 30,
+   "target": 34,
+   "type": 0
+  },
+  {
+   "dist": 0.24999715611514078,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 30,
+   "target": 35,
+   "type": 0
+  },
+  {
+   "dist": 0.2546661830474591,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 30,
+   "target": 36,
+   "type": 0
+  },
+  {
+   "dist": 0.14998000368346784,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 30,
+   "target": 37,
+   "type": 0
+  },
+  {
+   "dist": 0.36914953472681505,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 30,
+   "target": 38,
+   "type": 0
+  },
+  {
+   "dist": 0.528738000465409,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 30,
+   "target": 39,
+   "type": 0
+  },
+  {
+   "dist": 0.24421952424639978,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 31,
+   "target": 25,
+   "type": 0
+  },
+  {
+   "dist": 0.06368101012959748,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 31,
+   "target": 26,
+   "type": 0
+  },
+  {
+   "dist": 0.11492052717413245,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 31,
+   "target": 27,
+   "type": 0
+  },
+  {
+   "dist": 0.08442824676142915,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 31,
+   "target": 28,
+   "type": 0
+  },
+  {
+   "dist": 0.3051861048066388,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 31,
+   "target": 29,
+   "type": 0
+  },
+  {
+   "dist": 0.3765426472475185,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 31,
+   "target": 30,
+   "type": 0
+  },
+  {
+   "dist": 0.0,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 31,
+   "target": 31,
+   "type": 0
+  },
+  {
+   "dist": 0.1976590751309962,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 31,
+   "target": 32,
+   "type": 0
+  },
+  {
+   "dist": 0.22870278649221412,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 31,
+   "target": 33,
+   "type": 0
+  },
+  {
+   "dist": 0.18604751456394047,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 31,
+   "target": 34,
+   "type": 0
+  },
+  {
+   "dist": 0.46255882927958836,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 31,
+   "target": 35,
+   "type": 0
+  },
+  {
+   "dist": 0.17098082409830673,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 31,
+   "target": 36,
+   "type": 0
+  },
+  {
+   "dist": 0.24551502056343277,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 31,
+   "target": 37,
+   "type": 0
+  },
+  {
+   "dist": 0.6104745537341335,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 31,
+   "target": 38,
+   "type": 0
+  },
+  {
+   "dist": 0.17558647021790244,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 31,
+   "target": 39,
+   "type": 0
+  },
+  {
+   "dist": 0.28120718789886096,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 32,
+   "target": 25,
+   "type": 0
+  },
+  {
+   "dist": 0.18395283685799013,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 32,
+   "target": 26,
+   "type": 0
+  },
+  {
+   "dist": 0.31040890067896126,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 32,
+   "target": 27,
+   "type": 0
+  },
+  {
+   "dist": 0.22763207641068836,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 32,
+   "target": 28,
+   "type": 0
+  },
+  {
+   "dist": 0.4103924172117732,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 32,
+   "target": 29,
+   "type": 0
+  },
+  {
+   "dist": 0.5365214997557489,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 32,
+   "target": 30,
+   "type": 0
+  },
+  {
+   "dist": 0.1976590751309962,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 32,
+   "target": 31,
+   "type": 0
+  },
+  {
+   "dist": 0.0,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 32,
+   "target": 32,
+   "type": 0
+  },
+  {
+   "dist": 0.1160812517555004,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 32,
+   "target": 33,
+   "type": 0
+  },
+  {
+   "dist": 0.09725183301721899,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 32,
+   "target": 34,
+   "type": 0
+  },
+  {
+   "dist": 0.5432042249521394,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 32,
+   "target": 35,
+   "type": 0
+  },
+  {
+   "dist": 0.28596125117964005,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 32,
+   "target": 36,
+   "type": 0
+  },
+  {
+   "dist": 0.42799805946717484,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 32,
+   "target": 37,
+   "type": 0
+  },
+  {
+   "dist": 0.6775427751385494,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 32,
+   "target": 38,
+   "type": 0
+  },
+  {
+   "dist": 0.24066798627628577,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 32,
+   "target": 39,
+   "type": 0
+  },
+  {
+   "dist": 0.191990860045384,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 33,
+   "target": 25,
+   "type": 0
+  },
+  {
+   "dist": 0.24666688255273655,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 33,
+   "target": 26,
+   "type": 0
+  },
+  {
+   "dist": 0.32092609556699897,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 33,
+   "target": 27,
+   "type": 0
+  },
+  {
+   "dist": 0.2138083396911415,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 33,
+   "target": 28,
+   "type": 0
+  },
+  {
+   "dist": 0.4991307811715438,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 33,
+   "target": 29,
+   "type": 0
+  },
+  {
+   "dist": 0.6012777694515667,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 33,
+   "target": 30,
+   "type": 0
+  },
+  {
+   "dist": 0.22870278649221412,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 33,
+   "target": 31,
+   "type": 0
+  },
+  {
+   "dist": 0.1160812517555004,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 33,
+   "target": 32,
+   "type": 0
+  },
+  {
+   "dist": 0.0,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 33,
+   "target": 33,
+   "type": 0
+  },
+  {
+   "dist": 0.20961333655763917,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 33,
+   "target": 34,
+   "type": 0
+  },
+  {
+   "dist": 0.6424085321298506,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 33,
+   "target": 35,
+   "type": 0
+  },
+  {
+   "dist": 0.36587845378361544,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 33,
+   "target": 36,
+   "type": 0
+  },
+  {
+   "dist": 0.4742167241988677,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 33,
+   "target": 37,
+   "type": 0
+  },
+  {
+   "dist": 0.7817493264153504,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 33,
+   "target": 38,
+   "type": 0
+  },
+  {
+   "dist": 0.1761848934146302,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 33,
+   "target": 39,
+   "type": 0
+  },
+  {
+   "dist": 0.348532051743611,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 34,
+   "target": 25,
+   "type": 0
+  },
+  {
+   "dist": 0.14249287790505005,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 34,
+   "target": 26,
+   "type": 0
+  },
+  {
+   "dist": 0.2984894871187527,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 34,
+   "target": 27,
+   "type": 0
+  },
+  {
+   "dist": 0.24789185821640422,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 34,
+   "target": 28,
+   "type": 0
+  },
+  {
+   "dist": 0.32362588601290804,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 34,
+   "target": 29,
+   "type": 0
+  },
+  {
+   "dist": 0.46570806669286235,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 34,
+   "target": 30,
+   "type": 0
+  },
+  {
+   "dist": 0.18604751456394047,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 34,
+   "target": 31,
+   "type": 0
+  },
+  {
+   "dist": 0.09725183301721899,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 34,
+   "target": 32,
+   "type": 0
+  },
+  {
+   "dist": 0.20961333655763917,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 34,
+   "target": 33,
+   "type": 0
+  },
+  {
+   "dist": 0.0,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 34,
+   "target": 34,
+   "type": 0
+  },
+  {
+   "dist": 0.44889339090489344,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 34,
+   "target": 35,
+   "type": 0
+  },
+  {
+   "dist": 0.21104398336077437,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 34,
+   "target": 36,
+   "type": 0
+  },
+  {
+   "dist": 0.3759901052866428,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 34,
+   "target": 37,
+   "type": 0
+  },
+  {
+   "dist": 0.581068802342227,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 34,
+   "target": 38,
+   "type": 0
+  },
+  {
+   "dist": 0.2948867612981404,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 34,
+   "target": 39,
+   "type": 0
+  },
+  {
+   "dist": 0.7067193093525092,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 35,
+   "target": 25,
+   "type": 0
+  },
+  {
+   "dist": 0.41197161925599207,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 35,
+   "target": 26,
+   "type": 0
+  },
+  {
+   "dist": 0.47802611946970336,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 35,
+   "target": 27,
+   "type": 0
+  },
+  {
+   "dist": 0.5412894045702287,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 35,
+   "target": 28,
+   "type": 0
+  },
+  {
+   "dist": 0.15973652020595108,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 35,
+   "target": 29,
+   "type": 0
+  },
+  {
+   "dist": 0.24999715611514078,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 35,
+   "target": 30,
+   "type": 0
+  },
+  {
+   "dist": 0.46255882927958836,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 35,
+   "target": 31,
+   "type": 0
+  },
+  {
+   "dist": 0.5432042249521394,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 35,
+   "target": 32,
+   "type": 0
+  },
+  {
+   "dist": 0.6424085321298506,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 35,
+   "target": 33,
+   "type": 0
+  },
+  {
+   "dist": 0.44889339090489344,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 35,
+   "target": 34,
+   "type": 0
+  },
+  {
+   "dist": 0.0,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 35,
+   "target": 35,
+   "type": 0
+  },
+  {
+   "dist": 0.2917112924385838,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 35,
+   "target": 36,
+   "type": 0
+  },
+  {
+   "dist": 0.3431531462746131,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 35,
+   "target": 37,
+   "type": 0
+  },
+  {
+   "dist": 0.14905698245508245,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 35,
+   "target": 38,
+   "type": 0
+  },
+  {
+   "dist": 0.6379271986670159,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 35,
+   "target": 39,
+   "type": 0
+  },
+  {
+   "dist": 0.41519947283361286,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 36,
+   "target": 25,
+   "type": 0
+  },
+  {
+   "dist": 0.12270122968738252,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 36,
+   "target": 26,
+   "type": 0
+  },
+  {
+   "dist": 0.21016350871506045,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 36,
+   "target": 27,
+   "type": 0
+  },
+  {
+   "dist": 0.2515594027192461,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 36,
+   "target": 28,
+   "type": 0
+  },
+  {
+   "dist": 0.13629943673166417,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 36,
+   "target": 29,
+   "type": 0
+  },
+  {
+   "dist": 0.2546661830474591,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 36,
+   "target": 30,
+   "type": 0
+  },
+  {
+   "dist": 0.17098082409830673,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 36,
+   "target": 31,
+   "type": 0
+  },
+  {
+   "dist": 0.28596125117964005,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 36,
+   "target": 32,
+   "type": 0
+  },
+  {
+   "dist": 0.36587845378361544,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 36,
+   "target": 33,
+   "type": 0
+  },
+  {
+   "dist": 0.21104398336077437,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 36,
+   "target": 34,
+   "type": 0
+  },
+  {
+   "dist": 0.2917112924385838,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 36,
+   "target": 35,
+   "type": 0
+  },
+  {
+   "dist": 0.0,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 36,
+   "target": 36,
+   "type": 0
+  },
+  {
+   "dist": 0.18331700050974795,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 36,
+   "target": 37,
+   "type": 0
+  },
+  {
+   "dist": 0.43949501642596095,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 36,
+   "target": 38,
+   "type": 0
+  },
+  {
+   "dist": 0.34653526877454105,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 36,
+   "target": 39,
+   "type": 0
+  },
+  {
+   "dist": 0.44737879516477513,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 37,
+   "target": 25,
+   "type": 0
+  },
+  {
+   "dist": 0.2442357750381281,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 37,
+   "target": 26,
+   "type": 0
+  },
+  {
+   "dist": 0.181874441431517,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 37,
+   "target": 27,
+   "type": 0
+  },
+  {
+   "dist": 0.28629963210869597,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 37,
+   "target": 28,
+   "type": 0
+  },
+  {
+   "dist": 0.20624269357413114,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 37,
+   "target": 29,
+   "type": 0
+  },
+  {
+   "dist": 0.14998000368346784,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 37,
+   "target": 30,
+   "type": 0
+  },
+  {
+   "dist": 0.24551502056343277,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 37,
+   "target": 31,
+   "type": 0
+  },
+  {
+   "dist": 0.42799805946717484,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 37,
+   "target": 32,
+   "type": 0
+  },
+  {
+   "dist": 0.4742167241988677,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 37,
+   "target": 33,
+   "type": 0
+  },
+  {
+   "dist": 0.3759901052866428,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 37,
+   "target": 34,
+   "type": 0
+  },
+  {
+   "dist": 0.3431531462746131,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 37,
+   "target": 35,
+   "type": 0
+  },
+  {
+   "dist": 0.18331700050974795,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 37,
+   "target": 36,
+   "type": 0
+  },
+  {
+   "dist": 0.0,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 37,
+   "target": 37,
+   "type": 0
+  },
+  {
+   "dist": 0.483820612993105,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 37,
+   "target": 38,
+   "type": 0
+  },
+  {
+   "dist": 0.3830810166625151,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 37,
+   "target": 39,
+   "type": 0
+  },
+  {
+   "dist": 0.8546892183292119,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 38,
+   "target": 25,
+   "type": 0
+  },
+  {
+   "dist": 0.5581140395630224,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 38,
+   "target": 26,
+   "type": 0
+  },
+  {
+   "dist": 0.6265104421223354,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 38,
+   "target": 27,
+   "type": 0
+  },
+  {
+   "dist": 0.6899592472886783,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 38,
+   "target": 28,
+   "type": 0
+  },
+  {
+   "dist": 0.3087932075703917,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 38,
+   "target": 29,
+   "type": 0
+  },
+  {
+   "dist": 0.36914953472681505,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 38,
+   "target": 30,
+   "type": 0
+  },
+  {
+   "dist": 0.6104745537341335,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 38,
+   "target": 31,
+   "type": 0
+  },
+  {
+   "dist": 0.6775427751385494,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 38,
+   "target": 32,
+   "type": 0
+  },
+  {
+   "dist": 0.7817493264153504,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 38,
+   "target": 33,
+   "type": 0
+  },
+  {
+   "dist": 0.581068802342227,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 38,
+   "target": 34,
+   "type": 0
+  },
+  {
+   "dist": 0.14905698245508245,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 38,
+   "target": 35,
+   "type": 0
+  },
+  {
+   "dist": 0.43949501642596095,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 38,
+   "target": 36,
+   "type": 0
+  },
+  {
+   "dist": 0.483820612993105,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 38,
+   "target": 37,
+   "type": 0
+  },
+  {
+   "dist": 0.0,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 38,
+   "target": 38,
+   "type": 0
+  },
+  {
+   "dist": 0.7860220778332987,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 38,
+   "target": 39,
+   "type": 0
+  },
+  {
+   "dist": 0.06893966247034561,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 39,
+   "target": 25,
+   "type": 0
+  },
+  {
+   "dist": 0.23224264599921493,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 39,
+   "target": 26,
+   "type": 0
+  },
+  {
+   "dist": 0.2028983400799436,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 39,
+   "target": 27,
+   "type": 0
+  },
+  {
+   "dist": 0.10016448057751275,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 39,
+   "target": 28,
+   "type": 0
+  },
+  {
+   "dist": 0.4798103095389081,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 39,
+   "target": 29,
+   "type": 0
+  },
+  {
+   "dist": 0.528738000465409,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 39,
+   "target": 30,
+   "type": 0
+  },
+  {
+   "dist": 0.17558647021790244,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 39,
+   "target": 31,
+   "type": 0
+  },
+  {
+   "dist": 0.24066798627628577,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 39,
+   "target": 32,
+   "type": 0
+  },
+  {
+   "dist": 0.1761848934146302,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 39,
+   "target": 33,
+   "type": 0
+  },
+  {
+   "dist": 0.2948867612981404,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 39,
+   "target": 34,
+   "type": 0
+  },
+  {
+   "dist": 0.6379271986670159,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 39,
+   "target": 35,
+   "type": 0
+  },
+  {
+   "dist": 0.34653526877454105,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 39,
+   "target": 36,
+   "type": 0
+  },
+  {
+   "dist": 0.3830810166625151,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 39,
+   "target": 37,
+   "type": 0
+  },
+  {
+   "dist": 0.7860220778332987,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 39,
+   "target": 38,
+   "type": 0
+  },
+  {
+   "dist": 0.0,
+   "mobile": 1,
+   "sim": -1.0,
+   "source": 39,
+   "target": 39,
    "type": 0
   }
  ],
@@ -1445,142 +4605,282 @@
   {
    "group": 0,
    "mobile": 0.0,
-   "name": "tor.0",
-   "xo": 0.7597483630600453,
-   "yo": 0.038311241583709146
+   "name": "Beaches-East York",
+   "xo": 1.2144551597683861,
+   "yo": 0.38680513069546213
   },
   {
    "group": 1,
    "mobile": 0.0,
-   "name": "tor.1",
-   "xo": 0.8265558383917486,
-   "yo": 0.12798543825472355
+   "name": "Davenport",
+   "xo": 0.708732166331471,
+   "yo": 0.31832410116116117
   },
   {
    "group": 2,
    "mobile": 0.0,
-   "name": "tor.2",
-   "xo": 0.7438449318416303,
-   "yo": 0.050834669924097166
+   "name": "Don Valley East",
+   "xo": 1.120327146863824,
+   "yo": 0.5642157902304806
   },
   {
    "group": 3,
    "mobile": 0.0,
-   "name": "tor.3",
-   "xo": 1.277068132469467,
-   "yo": 0.7229318675305331
+   "name": "Don Valley North",
+   "xo": 1.0123808810280392,
+   "yo": 0.7600140273471493
   },
   {
    "group": 4,
    "mobile": 0.0,
-   "name": "tor.4",
-   "xo": 0.7100695827106959,
-   "yo": 0.3710132949924414
+   "name": "Don Valley West",
+   "xo": 0.9555420118913049,
+   "yo": 0.5327952634035769
   },
   {
    "group": 5,
    "mobile": 0.0,
-   "name": "tor.5",
-   "xo": 1.1542594600036593,
-   "yo": 0.12761123971227062
+   "name": "Eglinton-Lawrence",
+   "xo": 0.7371746234000042,
+   "yo": 0.5164355854957453
   },
   {
    "group": 6,
    "mobile": 0.0,
-   "name": "tor.6",
-   "xo": 0.9208346540885607,
-   "yo": 0.10507706927305992
+   "name": "Etobicoke Centre",
+   "xo": 0.32045769001270735,
+   "yo": 0.30066089673340207
   },
   {
    "group": 7,
    "mobile": 0.0,
-   "name": "tor.7",
-   "xo": 0.0,
-   "yo": 0.0
+   "name": "Etobicoke North",
+   "xo": 0.2166608961006466,
+   "yo": 0.49106001084464224
   },
   {
    "group": 8,
    "mobile": 0.0,
-   "name": "tor.8",
-   "xo": 1.0192899599266434,
-   "yo": 0.178305660375166
+   "name": "Etobicoke-Lakeshore",
+   "xo": 0.43639776240915734,
+   "yo": 0.1490000909937105
   },
   {
    "group": 9,
    "mobile": 0.0,
-   "name": "tor.9",
-   "xo": 0.6826244898642273,
-   "yo": 0.6812849643394107
+   "name": "Humber River-Black Creek",
+   "xo": 0.37042161987050637,
+   "yo": 0.6056798286999019
   },
   {
    "group": 10,
    "mobile": 0.0,
-   "name": "tor.10",
-   "xo": 0.36077041917216396,
-   "yo": 0.08849447642445935
+   "name": "Parkdale-High Park",
+   "xo": 0.6294677136725421,
+   "yo": 0.2462519996633695
   },
   {
    "group": 11,
-   "mobile": 1.0,
-   "name": "phx.0",
-   "xo": 0.3090669998521341,
-   "yo": 1.012106708965803
+   "mobile": 0.0,
+   "name": "Scarborough Centre",
+   "xo": 1.3322170463280114,
+   "yo": 0.6263818532120369
   },
   {
    "group": 12,
-   "mobile": 1.0,
-   "name": "phx.1",
-   "xo": 0.43833465984881925,
-   "yo": 1.5627309748908147
+   "mobile": 0.0,
+   "name": "Scarborough North",
+   "xo": 1.3952772545869234,
+   "yo": 0.8330311999287351
   },
   {
    "group": 13,
-   "mobile": 1.0,
-   "name": "phx.2",
-   "xo": 0.0,
-   "yo": 1.2264587202517045
+   "mobile": 0.0,
+   "name": "Scarborough Southwest",
+   "xo": 1.366373915003264,
+   "yo": 0.46064889304032164
   },
   {
    "group": 14,
-   "mobile": 1.0,
-   "name": "phx.3",
-   "xo": 0.08873793802046841,
-   "yo": 0.7081290154812525
+   "mobile": 0.0,
+   "name": "Scarborough-Agincourt",
+   "xo": 1.205430221007301,
+   "yo": 0.7881482781310336
   },
   {
    "group": 15,
-   "mobile": 1.0,
-   "name": "phx.4",
-   "xo": 0.5546523069036805,
-   "yo": 0.0
+   "mobile": 0.0,
+   "name": "Scarborough-Guildwood",
+   "xo": 1.5424189136314992,
+   "yo": 0.6621405877689818
   },
   {
    "group": 16,
-   "mobile": 1.0,
-   "name": "phx.5",
-   "xo": 0.4235337377879243,
-   "yo": 0.6155418497468003
+   "mobile": 0.0,
+   "name": "Scarborough-Rouge Park",
+   "xo": 1.6893966679249712,
+   "yo": 0.8114133086791705
   },
   {
    "group": 17,
-   "mobile": 1.0,
-   "name": "phx.6",
-   "xo": 0.46532440147870663,
-   "yo": 0.9397800350856773
+   "mobile": 0.0,
+   "name": "Spadina-Fort York",
+   "xo": 0.9160012117076203,
+   "yo": 0.19237727387843445
   },
   {
    "group": 18,
-   "mobile": 1.0,
-   "name": "phx.7",
-   "xo": 0.8477340050792846,
-   "yo": 1.7794101234619049
+   "mobile": 0.0,
+   "name": "Toronto Centre",
+   "xo": 0.9863599357698772,
+   "yo": 0.28607512008054814
   },
   {
    "group": 19,
+   "mobile": 0.0,
+   "name": "Toronto-Danforth",
+   "xo": 1.1130705912217622,
+   "yo": 0.28075072806612167
+  },
+  {
+   "group": 20,
+   "mobile": 0.0,
+   "name": "Toronto-St. Paul's",
+   "xo": 0.8004309350844433,
+   "yo": 0.40095791945434056
+  },
+  {
+   "group": 21,
+   "mobile": 0.0,
+   "name": "University-Rosedale",
+   "xo": 0.8707761808510841,
+   "yo": 0.3323388058162946
+  },
+  {
+   "group": 22,
+   "mobile": 0.0,
+   "name": "Willowdale",
+   "xo": 0.8098714475811581,
+   "yo": 0.7123344952032863
+  },
+  {
+   "group": 23,
+   "mobile": 0.0,
+   "name": "York Centre",
+   "xo": 0.6579397414135864,
+   "yo": 0.6343524475787422
+  },
+  {
+   "group": 24,
+   "mobile": 0.0,
+   "name": "York South-Weston",
+   "xo": 0.5466012774443737,
+   "yo": 0.4108046483997346
+  },
+  {
+   "group": 25,
    "mobile": 1.0,
-   "name": "phx.8",
-   "xo": 0.6220974155948211,
-   "yo": 1.8965969661746438
+   "name": "Ahwatukee Foothills",
+   "xo": 0.43314054687429476,
+   "yo": 0.0551573720073915
+  },
+  {
+   "group": 26,
+   "mobile": 1.0,
+   "name": "Alhambra",
+   "xo": 0.3230424099834688,
+   "yo": 0.33363587116778637
+  },
+  {
+   "group": 27,
+   "mobile": 1.0,
+   "name": "Camelback East",
+   "xo": 0.48270399651460116,
+   "yo": 0.3162318264680793
+  },
+  {
+   "group": 28,
+   "mobile": 1.0,
+   "name": "Central City",
+   "xo": 0.42049714756511464,
+   "yo": 0.22315607955129846
+  },
+  {
+   "group": 29,
+   "mobile": 1.0,
+   "name": "Deer Valley",
+   "xo": 0.32217040772015637,
+   "yo": 0.5925459412213131
+  },
+  {
+   "group": 30,
+   "mobile": 1.0,
+   "name": "Desert View",
+   "xo": 0.4954350755532814,
+   "yo": 0.6464428910604333
+  },
+  {
+   "group": 31,
+   "mobile": 1.0,
+   "name": "Encanto",
+   "xo": 0.3705389685941342,
+   "yo": 0.291217149224881
+  },
+  {
+   "group": 32,
+   "mobile": 1.0,
+   "name": "Estrella",
+   "xo": 0.19378125439374067,
+   "yo": 0.20275348181111844
+  },
+  {
+   "group": 33,
+   "mobile": 1.0,
+   "name": "Laveen",
+   "xo": 0.24627415706134204,
+   "yo": 0.09921917745428416
+  },
+  {
+   "group": 34,
+   "mobile": 1.0,
+   "name": "Maryvale",
+   "xo": 0.18467943507502754,
+   "yo": 0.29957845746460643
+  },
+  {
+   "group": 35,
+   "mobile": 1.0,
+   "name": "North Gateway",
+   "xo": 0.26416509871868327,
+   "yo": 0.7413785317892053
+  },
+  {
+   "group": 36,
+   "mobile": 1.0,
+   "name": "North Mountain",
+   "xo": 0.3260216818811515,
+   "yo": 0.45630092611725226
+  },
+  {
+   "group": 37,
+   "mobile": 1.0,
+   "name": "Paradise Valley",
+   "xo": 0.5048189137975857,
+   "yo": 0.49675673577311963
+  },
+  {
+   "group": 38,
+   "mobile": 1.0,
+   "name": "Rio Vista",
+   "xo": 0.20965383732694456,
+   "yo": 0.8801103104129089
+  },
+  {
+   "group": 39,
+   "mobile": 1.0,
+   "name": "South Mountain",
+   "xo": 0.4208478075902964,
+   "yo": 0.12299221277834652
   }
  ]
 }
