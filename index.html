@@ -4,7 +4,7 @@
 
 .links line {
   stroke: #000;
-  stroke-opacity: 0.1;
+  stroke-opacity: 0.5;
 }
 
 .nodes circle {
@@ -26,12 +26,10 @@ button {
 }
 
 </style>
-<label>Phx Link<input style="width:240px;" type="number" value="1" name="baselink"> </label>
-<label>Phx Link Scale<input style="width:240px;" type="number" value="0.3" name="phxscale"> </label>
-<label>Intercity Link<input style="width:240px;" type="number" value="0.01" name="interlink"> </label>
-<label>Charge<input style="width:240px;" type="number" value="0" name="charge"> </label>
-<label>Tor Position<input style="width:240px;" type="number" value="10" name="position"></label>
-<label>Phx Position<input style="width:240px;" type="number" value="0" name="position_phx"></label>
+<label>Phx Link<input style="width:120;" type="number" value="0.1" name="baselink"> </label>
+<label>Phx Link Scale<input style="width:120;" type="number" value="0.4" name="phxscale"> </label>
+<label>Intercity Link<input style="width:120;" type="number" value="1" name="interlink"> </label>
+<label>Tor Position<input style="width:120;" type="number" value="3" name="position"></label>
 <svg width="960" height="1200"></svg>
 
 <script src="d3.v5.min.js"></script>
@@ -47,11 +45,11 @@ var svg = d3.select("svg"),
 
 var color = d3.scaleOrdinal(d3.schemeAccent);
 
-base_link_strength = 1
-intercity_link_strength = 0.01
+base_link_strength = 0.1
+intercity_link_strength = 1
 location_strength = 3
 phx_location_strength = 0
-phx_scale = 0.3
+phx_scale = 0.4
 
 
 var simulation = d3.forceSimulation()
@@ -114,15 +112,15 @@ $(function(){
 
       function ticked() {
         display_transformation()
-        link
-            .attr("x1", function(d) { return d.source.x; })
-            .attr("y1", function(d) { return d.source.y; })
-            .attr("x2", function(d) { return d.target.x; })
-            .attr("y2", function(d) { return d.target.y; })
-            .style("stroke-width", 
-              function(d) { 
-                return (1-d.mobile)+"px"; 
-              });
+        // link
+        //     .attr("x1", function(d) { return d.source.x; })
+        //     .attr("y1", function(d) { return d.source.y; })
+        //     .attr("x2", function(d) { return d.target.x; })
+        //     .attr("y2", function(d) { return d.target.y; })
+        //     .style("stroke-width", 
+        //       function(d) { 
+        //         return 2*((1-d.mobile)*d.sim)+"px"; 
+        //       });
 
         node
             .attr("transform", function(d) {
@@ -188,87 +186,18 @@ $(function(){
 
     function display_transformation(){
       
+      $('#tor_im').remove()
+      tor_im_tmp = $('#PatchCollection_1').clone();
+      tor_im_tmp.attr('id','tor_im')
+      $('svg').append(tor_im_tmp);
+      tor_im = d3.select('#tor_im')
+
       $('#phx_im').remove()
       phx_im_tmp = $('#PatchCollection_2').clone();
       phx_im_tmp.attr('id','phx_im')
       $('svg').append(phx_im_tmp);
       phx_im = d3.select('#phx_im')
 
-      var domain = []
-      var range = []
-      d = node.data()
-      for (i=0; i < d.length; i++){
-        if (d[i]['mobile']==1) {
-          domain.push([d[i]['xo']*height,height-d[i]['yo']*height])
-          range.push([d[i]['x'],d[i]['y']])
-        }
-      }
-      var trans = nudged.estimate('TSR', domain, range)
-      bb = phx_im.node().getBBox()
-      trans_str = ' translate('+(-bb['x'])+','+(-bb['y'])+')'
-      scale_str = ' scale('+(height/bb['height'])+')'
-      phx_im.attr('transform', 'matrix('+Object.values(trans.getMatrix())+')'+scale_str+ trans_str )
-
-      domain_transed = trans.transform(domain)
-
-      min_x = 10000
-      min_y = 10000
-      max_x = 0
-      max_y = 0
-      for (let i = 1, len=domain_transed.length; i < len; i++) {
-        let x = domain_transed[i][0];
-        let y = domain_transed[i][1];
-        max_x = (x > max_x) ? x : max_x;
-        min_x = (x < min_x) ? x : min_x;
-        max_y = (y > min_y) ? y : max_y;
-        min_y = (y < min_y) ? y : min_y;
-      }
-
-      x_len_scale = max_x-min_x
-      y_len_scale = max_y-min_y
-
-      warp_bound = 500
-      
-      phx_in_points = []
-      phx_out_point_diffs = []
-      for (i=0; i < domain.length; i++) {
-        var dom_x = (domain_transed[i][0]-min_x)/x_len_scale*bb['width'] + bb['x']
-        var dom_y = (domain_transed[i][1]-min_y)/y_len_scale*bb['height'] + bb['y']
-        var ran_x = (range[i][0]-min_x)/x_len_scale*bb['width'] + bb['x']
-        var ran_y = (range[i][1]-min_y)/y_len_scale*bb['height'] + bb['y']
-        phx_in_points.push([dom_x,dom_y])
-        phx_out_point_diffs.push([ran_x-dom_x, ran_y-dom_y])
-      }
-      function warp_function_phx ([x, y]){
-        let dx = 0
-        let dy = 0
-        let den = 0
-        phx_in_points.forEach(function (linkCoord,i) {
-          let distance = Math.hypot(linkCoord[0]-x, linkCoord[1]-y);
-          if (distance < warp_bound){
-            dx = dx + (1-distance/warp_bound)*phx_out_point_diffs[i][0]
-            dy = dy + (1-distance/warp_bound)*phx_out_point_diffs[i][1]
-            den = den + 0.5+0.5*(1-distance/warp_bound)
-          }
-        });
-        if (den==0){
-          return [x,y]
-        }
-        return [x+dx/den,y+dy/den];
-      }
-
-      phx_im2 = document.getElementById('phx_im')
-      var phx_warp = new Warp(phx_im2)
-      phx_warp.interpolate(100);
-      phx_warp.transform(warp_function_phx);
-  
-
-
-      $('#tor_im').remove()
-      tor_im_tmp = $('#PatchCollection_1').clone();
-      tor_im_tmp.attr('id','tor_im')
-      $('svg').append(tor_im_tmp);
-      tor_im = d3.select('#tor_im')
 
       var domain = []
       var range = []
@@ -305,24 +234,34 @@ $(function(){
 
       tor_in_points = []
       tor_out_point_diffs = []
+      warp_bounds = []
       for (i=0; i < domain.length; i++) {
         var dom_x = (domain_transed[i][0]-min_x)/x_len_scale*bb['width'] + bb['x']
         var dom_y = (domain_transed[i][1]-min_y)/y_len_scale*bb['height'] + bb['y']
         var ran_x = (range[i][0]-min_x)/x_len_scale*bb['width'] + bb['x']
         var ran_y = (range[i][1]-min_y)/y_len_scale*bb['height'] + bb['y']
         tor_in_points.push([dom_x,dom_y])
+        warp_bound = 100
+        if (Math.abs(ran_x-dom_x)>warp_bound) {
+          warp_bound = Math.abs(ran_x-dom_x)
+        }
+        if (Math.abs(ran_y-dom_y)>warp_bound) {
+          warp_bound = Math.abs(ran_y-dom_y)
+        }
         tor_out_point_diffs.push([ran_x-dom_x, ran_y-dom_y])
+        warp_bounds.push(warp_bound)
       }
+
       function warp_function_tor ([x, y]){
         let dx = 0
         let dy = 0
         let den = 0
         tor_in_points.forEach(function (linkCoord,i) {
           let distance = Math.hypot(linkCoord[0]-x, linkCoord[1]-y);
-          if (distance < warp_bound){
-            dx = dx + (1-distance/warp_bound)*tor_out_point_diffs[i][0]
-            dy = dy + (1-distance/warp_bound)*tor_out_point_diffs[i][1]
-            den = den + 0.5+0.5*(1-distance/warp_bound)
+          if (distance < warp_bounds[i]){
+            dx = dx + (1-distance/warp_bounds[i])*tor_out_point_diffs[i][0]
+            dy = dy + (1-distance/warp_bounds[i])*tor_out_point_diffs[i][1]
+            den = den + 0.5+0.5*(1-distance/warp_bounds[i])
           }
         });
         if (den==0){
@@ -335,6 +274,90 @@ $(function(){
       var tor_warp = new Warp(tor_im2)
       tor_warp.interpolate(100);
       tor_warp.transform(warp_function_tor);
+
+      var domain = []
+      var range = []
+      d = node.data()
+      for (i=0; i < d.length; i++){
+        if (d[i]['mobile']==1) {
+          domain.push([d[i]['xo']*height,height-d[i]['yo']*height])
+          range.push([d[i]['x'],d[i]['y']])
+        }
+      }
+      var trans = nudged.estimate('TSR', domain, range)
+      bb = phx_im.node().getBBox()
+      trans_str = ' translate('+(-bb['x'])+','+(-bb['y'])+')'
+      scale_str = ' scale('+(height/bb['height'])+')'
+      phx_im.attr('transform', 'matrix('+Object.values(trans.getMatrix())+')'+scale_str+ trans_str )
+
+      domain_transed = trans.transform(domain)
+
+      min_x = 10000
+      min_y = 10000
+      max_x = 0
+      max_y = 0
+      for (let i = 1, len=domain_transed.length; i < len; i++) {
+        let x = domain_transed[i][0];
+        let y = domain_transed[i][1];
+        max_x = (x > max_x) ? x : max_x;
+        min_x = (x < min_x) ? x : min_x;
+        max_y = (y > min_y) ? y : max_y;
+        min_y = (y < min_y) ? y : min_y;
+      }
+
+      x_len_scale = max_x-min_x
+      y_len_scale = max_y-min_y
+      
+      phx_in_points = []
+      phx_out_point_diffs = []
+      warp_bounds = []
+      for (i=0; i < domain.length; i++) {
+        var dom_x = (domain_transed[i][0]-min_x)/x_len_scale*bb['width'] + bb['x']
+        var dom_y = (domain_transed[i][1]-min_y)/y_len_scale*bb['height'] + bb['y']
+        var ran_x = (range[i][0]-min_x)/x_len_scale*bb['width'] + bb['x']
+        var ran_y = (range[i][1]-min_y)/y_len_scale*bb['height'] + bb['y']
+        warp_bound = 100
+        if (Math.abs(ran_x-dom_x)>warp_bound) {
+          warp_bound = Math.abs(ran_x-dom_x)
+        }
+        if (Math.abs(ran_y-dom_y)>warp_bound) {
+          warp_bound = Math.abs(ran_y-dom_y)
+        }
+        phx_in_points.push([dom_x,dom_y])
+        phx_out_point_diffs.push([ran_x-dom_x, ran_y-dom_y])
+        warp_bounds.push(warp_bound)
+      }
+      console.log(phx_out_point_diffs)
+
+      function warp_function_phx ([x, y]){
+        let dx = 0
+        let dy = 0
+        let den = 0
+        phx_in_points.forEach(function (linkCoord,i) {
+          let distance = Math.hypot(linkCoord[0]-x, linkCoord[1]-y);
+          if (distance < warp_bounds[i]){
+            dx = dx + (1-distance/warp_bounds[i])*phx_out_point_diffs[i][0]
+            dy = dy + (1-distance/warp_bounds[i])*phx_out_point_diffs[i][1]
+            den = den + 0.5+0.5*(1-distance/warp_bounds[i])
+          }
+        });
+        if (den==0){
+          return [x,y]
+        }
+        return [x+dx/den,y+dy/den];
+      }
+
+      phx_im2 = document.getElementById('phx_im')
+      var phx_warp = new Warp(phx_im2)
+      phx_warp.interpolate(4);
+      phx_warp.transform(warp_function_phx);
+  
+
+
+
+
+
+      
     }
   });
 });
