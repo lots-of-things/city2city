@@ -5,5 +5,5 @@ Check out the running demo at https://codepen.io/stedn/project/full/ZzwErz
 
 [This notebook](dataprep.ipynb) has the map svg rendering and the neighborhood similarity calculation.
 
-# HELP NEEDED!
-I'm currently trying to figure out a better way to normalize the similarity matrix.  If you think you can help check out this Stack Exchange: https://datascience.stackexchange.com/questions/69034/is-there-a-way-to-normalize-a-similarity-matrix-by-row-and-column-in-a-way-such
+# HELP defining the similarity metric!
+I'm currently trying to figure out a better way to normalize the similarity matrix.  If you are knowledgeable in these mystical matters, check out this Stack Exchange: https://datascience.stackexchange.com/questions/69034/is-there-a-way-to-normalize-a-similarity-matrix-by-row-and-column-in-a-way-such
