@@ -29,6 +29,8 @@ button {
 <label>Phx Link<input style="width:120;" type="number" value="0.1" name="baselink"> </label>
 <label>Phx Link Scale<input style="width:120;" type="number" value="0.4" name="phxscale"> </label>
 <label>Intercity Link<input style="width:120;" type="number" value="1" name="interlink"> </label>
+<label>Intercity Link Min<input style="width:120;" type="number" value="0.9" name="interlink_min"> </label>
+
 <label>Tor Position<input style="width:120;" type="number" value="3" name="position"></label>
 <svg width="960" height="1200"></svg>
 
@@ -39,30 +41,31 @@ button {
 
 <script>
 
-var svg = d3.select("svg"),
+$(function(){
+  base_link_strength = $("input[name='baselink']").val()
+  console.log(base_link_strength)
+  intercity_link_strength = $("input[name='interlink']").val()
+  intercity_link_min = $("input[name='interlink_min']").val()
+  location_strength = $("input[name='position']").val()
+  phx_scale = $("input[name='phxscale']").val()
+
+  var svg = d3.select("svg"),
     width = +svg.attr("width"),
     height = +svg.attr("height")/4;
 
-var color = d3.scaleOrdinal(d3.schemeAccent);
+  var color = d3.scaleOrdinal(d3.schemeAccent);
 
-base_link_strength = 0.1
-intercity_link_strength = 1
-location_strength = 3
-phx_location_strength = 0
-phx_scale = 0.4
+  var simulation = d3.forceSimulation()
+      .force("link", d3.forceLink().id(function(d) { return d.group; })
+        .distance(function(d) { return (1-d.type)*d.dist*(width+height)*phx_scale;})
+        .strength(function(d) { return (base_link_strength*d.mobile + (d.sim < intercity_link_min ? 0 : intercity_link_strength*d.type*d.sim));}))
+      .force("charge", d3.forceManyBody()
+        .strength(0))
+      .force("xforce", d3.forceX().x(function (d) { return d.xo*height+height/2;})
+        .strength(function(d) { return location_strength*(1-d.mobile);}))
+      .force("yforce", d3.forceY().y(function (d) { return (height-d.yo*height)+height/2;})
+        .strength(function(d) { return location_strength*(1-d.mobile);}));
 
-
-var simulation = d3.forceSimulation()
-    .force("link", d3.forceLink().id(function(d) { return d.group; })
-      .distance(function(d) { return (1-d.type)*d.dist*(width+height)*phx_scale;})
-      .strength(function(d) { return (base_link_strength*d.mobile + intercity_link_strength*d.type*d.sim);}))
-    .force("charge", d3.forceManyBody()
-      .strength(0))
-    .force("xforce", d3.forceX().x(function (d) { return d.xo*height+height/2;})
-      .strength(function(d) { return phx_location_strength*d.mobile + location_strength*(1-d.mobile);}))
-    .force("yforce", d3.forceY().y(function (d) { return (height-d.yo*height)+height/2;})
-      .strength(function(d) { return phx_location_strength*d.mobile + location_strength*(1-d.mobile);}));
-$(function(){
   $("#svg-fake").load("maps.svg", function( response, status, xhr ) {
     d3.json("city_export.json").then(function(graph) {
 
@@ -112,15 +115,15 @@ $(function(){
 
       function ticked() {
         display_transformation()
-        // link
-        //     .attr("x1", function(d) { return d.source.x; })
-        //     .attr("y1", function(d) { return d.source.y; })
-        //     .attr("x2", function(d) { return d.target.x; })
-        //     .attr("y2", function(d) { return d.target.y; })
-        //     .style("stroke-width", 
-        //       function(d) { 
-        //         return 2*((1-d.mobile)*d.sim)+"px"; 
-        //       });
+        link
+            .attr("x1", function(d) { return d.source.x; })
+            .attr("y1", function(d) { return d.source.y; })
+            .attr("x2", function(d) { return d.target.x; })
+            .attr("y2", function(d) { return d.target.y; })
+            .style("stroke-width", 
+              function(d) { 
+                return 2*((1-d.mobile)*(d.sim < intercity_link_min ? 0 : intercity_link_strength*d.type*d.sim))+"px"; 
+              });
 
         node
             .attr("transform", function(d) {
@@ -129,56 +132,45 @@ $(function(){
       }
     });
 
-    function dragstarted(d) {
-      if (!d3.event.active) simulation.alphaTarget(0.3).restart();
-      d.fx = d.x;
-      d.fy = d.y;
-    }
-
-    function dragged(d) {
-      d.fx = d3.event.x;
-      d.fy = d3.event.y;
-    }
-
-    function dragended(d) {
-      if (!d3.event.active) simulation.alphaTarget(0);
-      d.fx = null;
-      d.fy = null;
-    }
     d3.selectAll("input[type=number]")
         .on("input", inputted);
 
     function inputted() {
       if (this.name=="baselink"){
         base_link_strength = +this.value
+
         simulation.force("link")
           .strength(function(d) { return base_link_strength*d.mobile + intercity_link_strength*d.type*d.sim;});
+
         simulation.alpha(0.1).restart();
       } else if (this.name=="interlink"){
         intercity_link_strength = +this.value
+
         simulation.force("link")
-          .strength(function(d) { return base_link_strength*d.mobile + intercity_link_strength*d.type*d.sim;});
+          .strength(function(d) { return (base_link_strength*d.mobile + (d.sim < intercity_link_min ? 0 : intercity_link_strength*d.type*d.sim));});
+
+        simulation.alpha(0.1).restart();
+      } else if (this.name=="interlink_min"){
+        intercity_link_min = +this.value
+
+        simulation.force("link")
+          .strength(function(d) { return (base_link_strength*d.mobile + (d.sim < intercity_link_min ? 0 : intercity_link_strength*d.type*d.sim));});
+
         simulation.alpha(0.1).restart();
       } else if (this.name=="phxscale"){
         phx_scale = +this.value
+
         simulation.force("link").distance(function(d) { return (1-d.type)*d.dist*(width+height)*phx_scale;});
-        simulation.alpha(0.1).restart();
-      } else if (this.name=="charge"){
-        simulation.force("charge").strength(+this.value);
+
         simulation.alpha(0.1).restart();
       } else if (this.name=="position"){
         location_strength = +this.value
+
         simulation.force("xforce").strength(
           function(d) { return phx_location_strength*d.mobile + location_strength*(1-d.mobile);});
         simulation.force("yforce").strength(
           function(d) { return phx_location_strength*d.mobile + location_strength*(1-d.mobile);});
-        simulation.alpha(0.1).restart();
-      } else if (this.name=="position_phx"){
-        phx_location_strength = +this.value
-        simulation.force("xforce").strength(
-          function(d) { return phx_location_strength*d.mobile + location_strength*(1-d.mobile);});
-        simulation.force("yforce").strength(
-          function(d) { return phx_location_strength*d.mobile + location_strength*(1-d.mobile);});
+
         simulation.alpha(0.1).restart();
       }
       
@@ -249,7 +241,7 @@ $(function(){
           warp_bound = Math.abs(ran_y-dom_y)
         }
         tor_out_point_diffs.push([ran_x-dom_x, ran_y-dom_y])
-        warp_bounds.push(warp_bound)
+        warp_bounds.push(warp_bound*2)
       }
 
       function warp_function_tor ([x, y]){
@@ -327,7 +319,6 @@ $(function(){
         phx_out_point_diffs.push([ran_x-dom_x, ran_y-dom_y])
         warp_bounds.push(warp_bound)
       }
-      console.log(phx_out_point_diffs)
 
       function warp_function_phx ([x, y]){
         let dx = 0
