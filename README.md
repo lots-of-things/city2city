@@ -1,9 +1,9 @@
 # city2city
-asking the pressing question, "are all cities just isomorphic transformations of one another?"  This is a project attempting to map cities onto one another using neighborhood data (currently yelp businesses).
+asking the pressing question, "are all cities just isomorphic transformations of one another?"  This is a project attempting to map cities onto one another using neighborhood data (currently yelp businesses).  
+
+![Image of wonky demo](demo.gif)
 
 Check out the running demo at https://codepen.io/stedn/project/full/ZzwErz
 
-[This notebook](dataprep.ipynb) has the map svg rendering and the neighborhood similarity calculation.
+[This notebook](build_maps_and_similarity.ipynb) has the map svg rendering and the neighborhood similarity calculation.  Currently, I'm looking for a better way to do the similarity calculation, and I'm hoping to get a different dataset for the comparison.
 
-# HELP defining the similarity metric!
-I'm currently trying to figure out a better way to normalize the similarity matrix.  If you are knowledgeable in these mystical matters, check out this Stack Exchange: https://datascience.stackexchange.com/questions/69034/is-there-a-way-to-normalize-a-similarity-matrix-by-row-and-column-in-a-way-such
